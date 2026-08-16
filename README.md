@@ -1,6 +1,6 @@
 # Hermes + YOLOv8n 视觉识别（H1 板）
 
-在 H1 板（aarch64, Debian 13）上部署 Hermes Agent + YOLOv8n 视觉识别，已实测验证。
+在 Quectel Pi H1 智能主控板上部署 Hermes Agent + YOLOv8n 进行视觉识别。
 
 ## 一、安装 Hermes（约 10 分钟）
 
